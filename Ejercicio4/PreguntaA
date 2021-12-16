@@ -1,0 +1,6 @@
+Para cambiar integrar los requerimientos a API REST hay que 
+crear un controlador Api segun los datos que queremos mostrar, 
+por ejemplo para poder ver los datos personas del cliente, hay que crear un ControladorApiCliente, 
+en el cual se llama a los modelos del cliente y la Api view, que se encarga de mostrar los datos.
+Dentro del controlador tiene que haber una funcion que busque los datos con el modelo, pregunte si existen y luego mostrarlos con la apiview
+

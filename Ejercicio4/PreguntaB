@@ -1,0 +1,13 @@
+Tabla Ruteo
+
+
+ /*
+    Tabla de ruteo:
+        Metodo                   METODO HTTP                    Controlador                              Metodo
+    A. api/clientes/id              GET                        ApiClienteController                  getDatos
+    B. api/clientes/id            PUT                        ApiClienteController                  editCliente
+    C. api/tarjetas/id              GET                     ApiTarjetaController                getTarjetasCliente
+    D. api/actividades/id                GET                    ApiActividadController                 getActividad
+    E. api/actividades/id             GET                         ApiActividadController            getHistorialActividades
+    F. api/tarjetas/id              DELETE                        ApiTarjetaController               darBajaTarjeta
+*/

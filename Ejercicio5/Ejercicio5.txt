@@ -1,0 +1,31 @@
+Pregunta A
+Una API REST es una interfaz para conectar sistemas que 
+esten basados en protoloco HTTP y sirve para obtener y realizar funciones y datos, esos datos los devuelve en 
+formatos como por ejemplo JSON y XML.
+
+Algunas de las ventajas que tiene el utilizar una API REST es la experiencia del usuario,
+ requiere menos recursos del servidor, tiene mucha escalabilidad y flexibilidad
+
+
+
+ 
+
+
+Pregunta B
+
+
+ En el server side rendering todos los datos se guardan del lado del servidor,
+ y si algun usuario hace alguna peticion le envia un documento HTML con la informacion que el pidio. Ejemplo: WIKIPEDIA
+
+
+
+
+ Los códigos de estado de respuesta HTTP sirven para verificar si se ha completado 
+ una solicitud HTTP específica de algun dato.
+ Por ejemplo en el ejercicio 4 de api si buscamos por ejemplo las tarjetas del usuario, mandaremos 200 si las encontramos
+
+
+
+ SESSION es un array que se usa para guardar información de los requests que un usuario hace en un sitio web o aplicación
+
+se pueden usar para crear sesiones.
